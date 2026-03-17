@@ -41,7 +41,7 @@ Bad: "Lead time has a positive correlation with cancellation"
 
 <!-- Embed your most compelling chart. Pick the ONE visual that best captures your main finding. -->
 
-![Proportion of Canceled vs. Not Canceled Bookings by Customer Type](mychart.png)
+![Proportion of Canceled vs. Not Canceled Bookings by Customer Type](my_chart.png)
 
 *This chart illustrates the cancellation propensity across different customer segments*
 
